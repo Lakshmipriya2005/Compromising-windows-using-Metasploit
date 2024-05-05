@@ -1,5 +1,5 @@
-EXP.NO:6
-DATE:
+# EXP.NO:6
+# DATE:
 
 # Compromising windows using Metasploit
 
