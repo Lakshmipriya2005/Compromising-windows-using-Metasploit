@@ -1,5 +1,5 @@
 # EXP.NO:6
-# DATE:
+# DATE:06.04.2024
 
 # Compromising windows using Metasploit
 
